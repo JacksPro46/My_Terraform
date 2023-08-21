@@ -1,0 +1,7 @@
+rgname = "JaganRG1"
+rglocation = "East US"
+vnet = "jgvnet14"
+vnet_address = "10.0.0.0/16"
+subnet1 = "10.0.1.0/24"
+appservice = "AzureDICOMAppServ"
+webappse = "azuredicomwebjg"
